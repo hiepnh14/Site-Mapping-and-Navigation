@@ -1,4 +1,5 @@
 # Site Mapping and Navigation
+
 ## Project description: 
 A simple web and terminal-based project that works as a man, navigation program.
 The program allows users to navigate to a specific destination from current location, find the nearest facility and all facilities available around the current location.
